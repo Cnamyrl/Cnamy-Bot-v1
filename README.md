@@ -24,7 +24,7 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/Cnamyrl/Cnamy-Bot-v1">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+    <img src="[https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge](https://photos.app.goo.gl/uaeyT5hw8i8VramB7)" alt="Fork the repository"/>
   </a>
 </div>
 
