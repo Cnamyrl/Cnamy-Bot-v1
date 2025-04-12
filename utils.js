@@ -4,7 +4,7 @@ const crypto = require('crypto');
 const os = require('os');
 
 // Session management
-function generateSessionId(prefix = 'KnightBot') {
+function generateSessionId(prefix = 'Cnamy-Bot-V1') {
     const timestamp = Date.now();
     const random = crypto.randomBytes(4).toString('hex');
     return `${prefix}-${random}-${timestamp}`;
@@ -19,7 +19,7 @@ const getTempDir = () => {
         }
         return tempDir;
     }
-    return path.join(os.tmpdir(), 'knightbot');
+    return path.join(os.tmpdir(), 'Cnamy-Bot-V1');
 };
 
 // Get session file path
