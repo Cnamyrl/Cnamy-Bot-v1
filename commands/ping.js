@@ -14,7 +14,7 @@ async function pingCommand(sock, chatId) {
         const end = Date.now();
         const ping = end - start;
 
-        const message = `*🤖 Bot Status*\n\n` +
+        const message = `* Bot Status*\n\n` +
                        `*⚡ Response Time:* ${ping}ms\n` +
                        `*💻 Platform:* ${platform}\n` +
                        `*🔄 Uptime:* ${formatTime(uptime)}\n` +
@@ -27,7 +27,7 @@ async function pingCommand(sock, chatId) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: 'Cnamy-Bot-V1',
                     serverMessageId: -1
                 }
             }
