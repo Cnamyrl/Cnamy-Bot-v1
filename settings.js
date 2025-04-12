@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'Cnamy-Bot-V1',
   author: 'Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  botName: "Cnamy-Bot-V1",
+  botOwner: 'Cnamy', // Your name
+  ownerNumber: '+4916011111118', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
