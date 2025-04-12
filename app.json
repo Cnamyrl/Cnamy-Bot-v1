@@ -1,14 +1,14 @@
 {
-    "name": "KnightBot-MD",
+    "name": "Cnamy-Bot-V1",
     "description": "Advanced WhatsApp Bot with Multiple Features",
     "keywords": [
         "bot",
         "whatsapp",
         "whatsapp-bot",
-        "knightbot",
+        "Cnamy-Bot-V1",
         "multi-device"
     ],
-    "repository": "https://github.com/mruniquehacker/Knightbot-MD",
+    "repository": "https://github.com/Cnamyrl/Cnamy-Bot-v1",
     "stack": "container",
     "env": {
         "SESSION_ID": {
@@ -16,7 +16,7 @@
             "required": false
         },
         "OWNER_NUMBER": {
-            "description": "Your WhatsApp number (e.g., 911234567890)",
+            "description": "Your WhatsApp number (e.g., 4916011111118)",
             "required": false
         },
         "PREFIX": {
@@ -36,10 +36,10 @@
             "url": "heroku/nodejs"
         },
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+            "url": "https://github.com/Cnamyrl/Cnamy-Bot-v1"
         },
         {
-            "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+            "url": "https://github.com/Cnamyrl/Cnamy-Bot-v1"
         }
     ],
     "addons": [
