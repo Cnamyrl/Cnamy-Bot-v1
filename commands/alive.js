@@ -1,6 +1,6 @@
 async function aliveCommand(sock, chatId) {
     try {
-        const message = `*🤖 Knight Bot is Active!*\n\n` +
+        const message = `* Cnamy-Bot-V1 is Active!*\n\n` +
                        `*Version:* 1.0.0\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
@@ -18,7 +18,7 @@ async function aliveCommand(sock, chatId) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: 'Cnamy-Bot-V1',
                     serverMessageId: -1
                 }
             }
