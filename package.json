@@ -1,7 +1,7 @@
 {
-  "name": "knightbot",
+  "name": "Cnamy-Bot-V1",
   "version": "1.0.0",
-  "description": "WhatsApp Bot",
+  "description": "WhatsApp Bot-V1",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
