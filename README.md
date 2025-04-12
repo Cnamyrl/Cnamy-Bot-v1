@@ -46,10 +46,10 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ### Step 3: Deploy Now
 
-For further customization and setup guidance, click the button below:
+Please Subscribe the YT Channel of My Friend Ryu028:
 
 <div align="center">
-  <a href="https://youtu.be/dDyiEHF8rIQ">
+  <a href="https://youtube.com/@ryu028-b5t?si=RSNIEHOuJpX93Ou9">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
