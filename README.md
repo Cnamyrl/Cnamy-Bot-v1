@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://chat.whatsapp.com/KMUwymazKYm1H3mycQcVcs"> 
+  <a href="https://t.me/+-wC3QbDNvMY1ZmQ6"> 
     <img src="https://chat.whatsapp.com/KMUwymazKYm1H3mycQcVcs" alt="Cnamy-Bot-V1" height="300"> 
   </a> 
 </div>
