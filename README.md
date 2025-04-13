@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://photos.app.goo.gl/uaeyT5hw8i8VramB7"> 
+  <a href="https://chat.whatsapp.com/CPbaaRhu0b7Dlg8BkcmNLP"> 
     <img src="https://chat.whatsapp.com/KMUwymazKYm1H3mycQcVcs" alt="Cnamy-Bot-V1" height="300"> 
   </a> 
 </div>
@@ -20,7 +20,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Cnamy-Bot-V1 repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
